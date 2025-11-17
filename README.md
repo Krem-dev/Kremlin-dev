@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kremlin-dev.Kremlin-dev" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Krem-dev.Krem-dev" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Isaac+Amponsah!;" />
@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Power BI and Software Design & Architecture **
 
- 💬 Ask me about ** Technical writing, software development [here](https://github.com/Kremlin-dev/Kremlin-dev/issues)**
+ 💬 Ask me about ** Technical writing, software development [here](https://github.com/Krem-dev/Krem-dev/issues)**
 
  ⚡ Fun fact **Ada Lovelace, the world's first computer programmer, wrote the first algorithm for Charles Babbage's Analytical Engine in the 1800s, pioneering the 
                        field of programming.**
@@ -30,9 +30,9 @@
   <a href="https://twitter.com/Yaw__Amponsah" target="_blank">
      <img src="https://img.shields.io/badge/twitter-FF5722?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    <a href="https://kremlin.hashnode.dev/" target="_blank">
+    <!-- <a href="https://kremlin.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-0077B5?style=for-the-badge&logo=Hashnode&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
 </div>
 
  <hr/>
